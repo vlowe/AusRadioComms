@@ -1,6 +1,6 @@
 # Visualising the radio communication links within Australia
 
-You can browse the generated map at [www.vickilowe.org](http://www.vickilowe.org/2017/08/australia-radio-communication-map.html).
+You can browse my blog post at [www.vickilowe.org](http://www.vickilowe.org/2017/08/australia-radio-communication-map.html) or the [full screen map](https://fusiontables.googleusercontent.com/embedviz?q=select+col12+from+13lRI-AY__dtD3QQ5GKFh5jP__sXUump9alTnLucv&viz=MAP&h=false&lat=-33.870413&lng=151.208673&t=2&z=16&l=col12&y=3&tmplt=5&hml=KML). It's centred on Sydney Tower.
 
 This was inspired by Mark Hansen's [nzwirelessmap](https://github.com/mhansen/nzwirelessmap).
 
